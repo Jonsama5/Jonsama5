@@ -18,3 +18,4 @@ My name is Jon,
 - ⚡ Fun fact: I love crows !
 
 About me:
+I'm still developin my profile ;)+
