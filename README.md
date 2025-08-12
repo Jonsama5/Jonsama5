@@ -1,4 +1,4 @@
-![Microbiome Banner](https:[//i.imgur.com/zHZQp0n.png](https://github.com/Jonsama5/Jonsama5/blob/main/props/github-header-banner.png))
+![Microbiome Banner](https://github.com/Jonsama5/Jonsama5/blob/main/props/github-header-banner.png)
 ##
 ```bash
  _____               _   _                 
