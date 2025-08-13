@@ -17,7 +17,7 @@ Since I was little, I wanted to delve into the world of genetics. After applying
 
 * I am a programming rookie
 * My hobbies are gaming, hitting the gym and the casual reading and writing.
-* In hindsight, if I had not ended up learning programming through Biology I would have learnt it regardless from gaming, my fate was inevitable.
+* In hindsight, had I not ended up learning programming through Biology, I would have learnt it regardless from gaming, my fate was inevitable.
 * Programming is like a toxic relationship, when it works you fell bliss, when it does not you want to Alt + F4.
 * If you have any questions feel free to ask.
 
