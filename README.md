@@ -12,6 +12,7 @@ Since I was little, I wanted to delve into the world of genetics. After applying
 * 👥  I'm looking to collaborate on projects involving microbiome research
 
 ============================================================================================================================
+
 ### About me
 
 * I am a programming rookie
