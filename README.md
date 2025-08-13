@@ -8,6 +8,7 @@ Since I was little, I have wanted to delve into the world of genetics. After app
 * ✉️  You can contact me at [corrallopezjon@gmail.com](mailto:corrallopezjon@gmail.com)
 * 🚀  I'm currently working on [My master's thesis presentation and a homebrew package containing functions to speed up the analysis of microbiome data which I have used in my thesis](http://github.com/Jonsama5/TFM)
 * 🧠  I'm currently learning how to create an R package
+* 🔍  I'm eager to learn more about microbiome research, other genomics areas, and the Python programming language  
 * 👥  I'm looking to collaborate on projects involving microbiome research
 
 <p align="left">
