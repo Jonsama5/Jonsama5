@@ -2,14 +2,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jon
 ============================================================================================================================
 
--------------------------
-
 Since I was little, I have wanted to delve into the world of genetics. After applying bioinformatics to complete my biology bachelor’s final project, I realized the wonders of the field and decided to pursue a Master’s program to properly introduce myself to this fascinating area.
 
-* 🌍  I'm based in Bilbao
+* 🌍  I'm from Bilbao
 * ✉️  You can contact me at [corrallopezjon@gmail.com](mailto:corrallopezjon@gmail.com)
 * 🚀  I'm currently working on [My master's thesis presentation and a homebrew package containing functions to speed up the analysis of microbiome data which I have used in my thesis](http://github.com/Jonsama5/TFM)
-* 🧠  I'm currently learning How to create an R package
+* 🧠  I'm currently learning how to create an R package
 * 👥  I'm looking to collaborate on projects involving microbiome research
 
 <p align="left">
