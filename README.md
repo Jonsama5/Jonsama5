@@ -2,7 +2,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jon
 ============================================================================================================================
 
-Bioinformatician graduate
 -------------------------
 
 Since I was little, I have wanted to delve into the world of genetics. After applying bioinformatics to complete my biology bachelor’s final project, I realized the wonders of the field and decided to pursue a Master’s program to properly introduce myself to this fascinating area.
